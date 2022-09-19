@@ -1,0 +1,15 @@
+{
+  "githubRepo": "digitalgarden",
+  "githubToken": "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",
+  "githubUserName": "asadaame5121",
+  "gardenBaseUrl": "https://cool-toffee-36991d.netlify.app",
+  "prHistory": [],
+  "theme": "dark",
+  "baseTheme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "faviconPath": "",
+  "showRibbonIcon": true,
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false
+  }
+}

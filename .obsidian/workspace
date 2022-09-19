@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "b46414a36a979290",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cdca9eb834952f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "読む・打つ・書く.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49c64be9cddbcc33",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c67d650c7b51a21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "215c1f825c4e3051",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "75e8532c77c049ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c62bae08a92d3fc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "a69df8ecbf3ad13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4807700ce982db89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a39bd7d613bb261e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "読む・打つ・書く.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "955707ded745019e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "読む・打つ・書く.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f993d07f73eba825",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88810bd15fa9c660",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "読む・打つ・書く.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0cdca9eb834952f6",
+  "lastOpenFiles": [
+    "三中信宏.md",
+    "oioi.md",
+    "202209191448.md",
+    "MOC.md",
+    "202209191344.md",
+    "2022-09-19.md",
+    "読む・打つ・書く.md",
+    "書評.md"
+  ]
+}
