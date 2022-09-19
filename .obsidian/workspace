@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home.md",
+            "file": "MOC.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "MOC.md"
               }
             }
           }
@@ -129,9 +129,10 @@
   },
   "active": "0cdca9eb834952f6",
   "lastOpenFiles": [
-    "読む・打つ・書く.md",
-    "三中信宏.md",
+    "home.md",
     "oioi.md",
+    "三中信宏.md",
+    "無題のフォルダ/0総記/読む・打つ・書く.md",
     "202209191448.md",
     "MOC.md",
     "202209191344.md",
