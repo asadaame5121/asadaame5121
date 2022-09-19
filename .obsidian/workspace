@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "読む・打つ・書く.md",
+            "file": "home.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "読む・打つ・書く.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "読む・打つ・書く.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "読む・打つ・書く.md"
+                "file": "home.md"
               }
             }
           }
@@ -129,13 +129,13 @@
   },
   "active": "0cdca9eb834952f6",
   "lastOpenFiles": [
+    "読む・打つ・書く.md",
     "三中信宏.md",
     "oioi.md",
     "202209191448.md",
     "MOC.md",
     "202209191344.md",
     "2022-09-19.md",
-    "読む・打つ・書く.md",
     "書評.md"
   ]
 }
