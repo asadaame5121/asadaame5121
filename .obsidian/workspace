@@ -7,12 +7,8 @@
         "id": "0cdca9eb834952f6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "home.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "home.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,11 +121,12 @@
   },
   "active": "0cdca9eb834952f6",
   "lastOpenFiles": [
-    "MOC.md",
+    "無題のファイル.md",
+    "無題のフォルダ/0総記/読む・打つ・書く.md",
     "home.md",
+    "MOC.md",
     "oioi.md",
     "三中信宏.md",
-    "無題のフォルダ/0総記/読む・打つ・書く.md",
     "202209191448.md",
     "202209191344.md",
     "2022-09-19.md",
