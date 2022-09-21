@@ -7,8 +7,12 @@
         "id": "0cdca9eb834952f6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "無題のフォルダ/0総記/読む・打つ・書く.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "無題のフォルダ/0総記/読む・打つ・書く.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "無題のフォルダ/0総記/読む・打つ・書く.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,10 +116,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "無題のフォルダ/0総記/読む・打つ・書く.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -121,6 +130,7 @@
   },
   "active": "0cdca9eb834952f6",
   "lastOpenFiles": [
+    "log/2022-09-21.md",
     "無題のファイル.md",
     "無題のフォルダ/0総記/読む・打つ・書く.md",
     "home.md",
@@ -129,7 +139,6 @@
     "三中信宏.md",
     "202209191448.md",
     "202209191344.md",
-    "2022-09-19.md",
-    "書評.md"
+    "2022-09-19.md"
   ]
 }
