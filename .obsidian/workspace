@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0cdca9eb834952f6",
+        "id": "de717cd97c243d79",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "世界哲学史 6 - 伊藤邦武 山内志朗 中島隆博 納富信留.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "世界哲学史 6 - 伊藤邦武 山内志朗 中島隆博 納富信留.md",
+                "file": "log/Dynalist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "世界哲学史 6 - 伊藤邦武 山内志朗 中島隆博 納富信留.md",
+                "file": "log/Dynalist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,28 +113,48 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "世界哲学史 6 - 伊藤邦武 山内志朗 中島隆博 納富信留.md"
+                "file": "log/Dynalist.md"
               }
             }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "b602c9265b4c9f54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cdca9eb834952f6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log/Dynalist.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0cdca9eb834952f6",
+  "active": "de717cd97c243d79",
   "lastOpenFiles": [
+    "MOC.md",
+    "三中信宏.md",
+    "書評.md",
+    "log/Dynalist.md",
+    "log/2022-09-22.md",
     "log/2022-09-21.md",
     "無題のフォルダ/0総記/読む・打つ・書く.md",
-    "無題のファイル.md",
+    "世界哲学史 6 - 伊藤邦武 山内志朗 中島隆博 納富信留.md",
     "home.md",
-    "MOC.md",
-    "oioi.md",
-    "三中信宏.md",
-    "202209191448.md",
-    "202209191344.md",
-    "2022-09-19.md"
+    "oioi.md"
   ]
 }
